@@ -140,3 +140,4 @@ CONFIG_ESP_SYSTEM_PMP_IDRAM_SPLIT=n
 # Further limit total sockets in TIME-WAIT when there are many short-lived
 # connections.
 CONFIG_LWIP_MAX_ACTIVE_TCP=12
+USER_C_MODULES := $(BOARD_DIR)/../../user_modules

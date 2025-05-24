@@ -1,0 +1,1 @@
+SRC_USERMOD += $(USERMOD_DIR)/sx1262x/sx1262x.c
